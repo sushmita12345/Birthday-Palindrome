@@ -15,3 +15,5 @@ If not then you can difference of days and date when your birthdate is palindrom
 # <h2>Clone the Repository</h2>
 To clone the repository open the terminal and run below command:</br>
 <pre>git clone https://github.com/sushmita12345/Birthday-Palindrome</pre>
+
+Live at: https://birthdaypalin.netlify.app/

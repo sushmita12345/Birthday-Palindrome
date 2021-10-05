@@ -87,13 +87,24 @@ label, input {
 }
 
 @media only screen and (max-width: 700px) {
-
+  .wrapper{
+    width: 75vw;
+    height: 80vh;
+    
+    
+  }
+  h1{
+    font-size: 1.2rem;
+    width: 65vw;
+    height: 8vh;
+    padding-top: 1rem;
+  }
  
    #bday-input {
-    width: 20vw;
+    width: 30vw;
    }
    #show-btn {
-    width: 18vw;
+    width: 25vw;
    
     
   }
